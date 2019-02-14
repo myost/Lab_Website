@@ -1,0 +1,36 @@
+/* Add any css you want to use for you website here */
+
+.container{
+	width:75%;
+	margin: auto;
+}
+
+header{
+	text-align: center;
+	margin:30px 0;
+}
+
+table{
+	width:75%;
+	margin:auto;
+	margin-bottom: 40px;
+}
+
+#wins-losses{
+	text-align: center;
+}
+
+thead th{
+	text-align: center;
+}
+
+figure img{
+	width:80%;
+}
+
+figure{
+	width:75%;
+	margin:auto;
+	text-align: center;
+	margin-bottom: 40px;
+}
